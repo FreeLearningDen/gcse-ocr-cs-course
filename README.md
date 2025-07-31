@@ -39,11 +39,11 @@ This repository follows the official [OCR J277 Computer Science Specification](h
 
 ### 💡 Paper 2: Computational Thinking, Algorithms and Programming
 
-1. [2.1 Algorithms](./paper2/2.1-algorithms/)
-2. [2.2 Programming Fundamentals](./paper2/2.2-programming-fundamentals/)
-3. [2.3 Producing Robust Programs](./paper2/2.3-robust-programs/)
-4. [2.4 Boolean Logic](./paper2/2.4-boolean-logic/)
-5. [2.5 Programming Languages and IDEs](./paper2/2.5-languages-ides/)
+1. [2.1 Algorithms](./paper2-computational-thinking-algorithms-and-Programming/2.1-algorithms/)
+2. [2.2 Programming Fundamentals](./paper2-computational-thinking-algorithms-and-Programming/2.2-programming-fundamentals/)
+3. [2.3 Producing Robust Programs](./paper2-computational-thinking-algorithms-and-Programming/2.3-robust-programs/)
+4. [2.4 Boolean Logic](./paper2-computational-thinking-algorithms-and-Programming/2.4-boolean-logic/)
+5. [2.5 Programming Languages and IDEs](./paper2-computational-thinking-algorithms-and-Programming/2.5-languages-ides/)
 
 ---
 
