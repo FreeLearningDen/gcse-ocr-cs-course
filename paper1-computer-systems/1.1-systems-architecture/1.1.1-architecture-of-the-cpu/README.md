@@ -1,6 +1,3 @@
-# 1.1 Systems Architecture
-Placeholder content for this topic.
-
 # 🖥️ 1.1.1 Architecture of the CPU (OCR GCSE Computer Science - J277)
 
 ## 📌 Purpose of the CPU
