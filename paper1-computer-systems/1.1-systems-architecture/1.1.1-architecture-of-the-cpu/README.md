@@ -28,6 +28,13 @@ The **Central Processing Unit (CPU)** is the brain of the computer. It is respon
   - Data may be stored or retrieved from memory.
   - The result may be stored in the **Accumulator**.
 
+
+---
+
+
+This diagram visually represents the three main stages of the CPU instruction cycle.
+
+![Fetch-Decode-Execute Cycle](https://github.com/FreeLearningDen/gcse-ocr-cs-course/blob/e7603ce2dbb90fdf985073c108fe3562d3a13ea6/paper1-computer-systems/1.1-systems-architecture/images/Fetch-and-execute-cycle.jpeg)
 ---
 # 🔄 The Fetch-Decode-Execute Cycle (With Teen-Friendly Examples)
 
