@@ -1,1 +1,2 @@
-1.2-memory-and-storage/
+# 1.2 Memory and Storage
+Placeholder content for this topic.
