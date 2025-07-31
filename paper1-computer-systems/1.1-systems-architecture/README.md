@@ -77,4 +77,4 @@ The **Central Processing Unit (CPU)** is the brain of the computer. It is respon
 ---
 
 📎 **Need More?**  
-Want this as a [PowerPoint presentation](https://github.com/gcse-ocr-cs-course/paper1-computer-systems/1.1-systems-architecture/slide), [worksheet](https://github.com/your-repo/worksheets), or [YouTube script](https://github.com/your-repo/videos)? Let me know!
+Want this as a [PowerPoint presentation](slide) [worksheet](worksheets)? Let me know!
