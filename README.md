@@ -28,12 +28,12 @@ This repository follows the official [OCR J277 Computer Science Specification](h
 
 ### 🖥️ Paper 1: Computer Systems
 
-1. [1.1 Systems Architecture](./paper1/1.1-systems-architecture/)
-2. [1.2 Memory and Storage](./paper1/1.2-memory-and-storage/)
+1. [1.1 Systems Architecture](./paper1-computer-systems/1.1-systems-architecture/)
+2. [1.2 Memory and Storage](./paper1-computer-systems/1.2-memory-and-storage/)
 3. [1.3 Computer Networks, Connections and Protocols](./paper1/1.3-networks/)
-4. [1.4 Network Security](./paper1/1.4-network-security/)
-5. [1.5 Systems Software](./paper1/1.5-systems-software/)
-6. [1.6 Ethical, Legal, Cultural and Environmental Impacts](./paper1/1.6-impacts/)
+4. [1.4 Network Security](./paper1-computer-systems/1.4-network-security/)
+5. [1.5 Systems Software](./paper1-computer-systems/1.5-systems-software/)
+6. [1.6 Ethical, Legal, Cultural and Environmental Impacts](./paper1-computer-systems/1.6-impacts/)
 
 ---
 
